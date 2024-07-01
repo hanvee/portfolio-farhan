@@ -89,7 +89,7 @@ export const workExperience = [
     id: 3,
     title: "Freelance Web Developer",
     description:
-      "Led the development of a web-based app for a client, from initial concept to deployment on app stores.",
+      "Led the development of a web-based app for a client, from initial concept to deployment.",
   },
   {
     id: 4,
